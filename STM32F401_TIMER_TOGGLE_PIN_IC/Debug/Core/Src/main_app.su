@@ -1,0 +1,7 @@
+../Core/Src/main_app.c:33:5:main	8	static
+../Core/Src/main_app.c:78:6:TIM3_Init	24	static
+../Core/Src/main_app.c:102:6:UART1_Init	8	static
+../Core/Src/main_app.c:118:6:Error_handler	4	static
+../Core/Src/main_app.c:125:6:SystemClockConfig	88	static
+../Core/Src/main_app.c:193:6:LSE_Configuration	8	static
+../Core/Src/main_app.c:202:6:HAL_TIM_IC_CaptureCallback	16	static

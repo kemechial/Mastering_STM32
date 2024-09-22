@@ -1,0 +1,10 @@
+13:11:21 **** Build of configuration Debug for project STM32F401_PLL_SYSCLK_HSE_OVR_DRV ****
+make -j8 all 
+arm-none-eabi-size  STM32F401_PLL_SYSCLK_HSE_OVR_DRV.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10884	     92	   2076	  13052	   32fc	STM32F401_PLL_SYSCLK_HSE_OVR_DRV.elf
+Finished building: default.size.stdout
+ 
+
+13:11:21 Build Finished. 0 errors, 0 warnings. (took 206ms)
+

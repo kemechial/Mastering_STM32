@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM32F030F4P6_PLL_SYSCLK/STM32F030F4P6_CLK_Config.ioc&apos; to &apos;STM32F030F4P6_PLL_SYSCLK.ioc&apos;" description="Rename resource &apos;STM32F030F4P6_CLK_Config.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="STM32F030F4P6_CLK_Config.ioc" name="STM32F030F4P6_PLL_SYSCLK.ioc" stamp="1726763866929" updateReferences="true"/>
+</session>

@@ -1,0 +1,10 @@
+13:33:11 **** Build of configuration Debug for project STM32F401_PLL_SYSCLK ****
+make -j8 all 
+arm-none-eabi-size  STM32F401_PLL_SYSCLK.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10848	     92	   2076	  13016	   32d8	STM32F401_PLL_SYSCLK.elf
+Finished building: default.size.stdout
+ 
+
+13:33:11 Build Finished. 0 errors, 0 warnings. (took 259ms)
+

@@ -1,0 +1,2 @@
+../Core/Src/it_app.c:12:6:SysTick_Handler	8	static
+../Core/Src/it_app.c:20:6:TIM3_IRQHandler	8	static

@@ -1,0 +1,26 @@
+/*
+ * msp.c
+ *
+ *  Created on: Sep 17, 2024
+ *      Author: Lenovo
+ */
+#include "main.h"
+
+void HAL_MspInit(void)
+{
+
+	// there would be a HAL_NVIC_SetPriorityGrouping(uint32_t PriorityGroup) call here.
+	HAL_NVIC_SetPriorityGrouping(NVIC_PRIORITYGROUP_2);
+
+}
+
+
+void HAL_TIM_Base_MspInit(TIM_HandleTypeDef *htim)
+{
+
+	__HAL_RCC_TIM3_CLK_ENABLE();
+	HAL_NVIC_EnableIRQ(TIM3_IRQn);
+	HAL_NVIC_SetPriority(TIM3_IRQn, 1, 0);
+
+}
+

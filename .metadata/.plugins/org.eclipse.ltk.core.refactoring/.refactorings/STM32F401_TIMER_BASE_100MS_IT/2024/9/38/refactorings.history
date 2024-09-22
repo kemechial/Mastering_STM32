@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM32F401_TIMER_BASE_100MS_IT/STM32F401_TIMER_BASE_100MS2_IT.launch&apos; to &apos;STM32F401_TIMER_BASE_100MS_IT.launch&apos;" description="Rename resource &apos;STM32F401_TIMER_BASE_100MS2_IT.launch&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="STM32F401_TIMER_BASE_100MS2_IT.launch" name="STM32F401_TIMER_BASE_100MS_IT.launch" stamp="1726837228738" updateReferences="true"/>
+</session>
