@@ -1,0 +1,3 @@
+../Core/Src/msp_app.c:9:6:HAL_MspInit	1
+../Core/Src/msp_app.c:20:6:HAL_UART_MspInit	1
+../Core/Src/msp_app.c:41:6:HAL_TIM_PWM_MspInit	1

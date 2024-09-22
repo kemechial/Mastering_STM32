@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM32F401_TIMER_OC/STM32F401_TIMER_IC.ioc&apos; to &apos;STM32F401_TIMER_OC.ioc&apos;" description="Rename resource &apos;STM32F401_TIMER_IC.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="STM32F401_TIMER_IC.ioc" name="STM32F401_TIMER_OC.ioc" stamp="1726989041540" updateReferences="true"/>
+</session>

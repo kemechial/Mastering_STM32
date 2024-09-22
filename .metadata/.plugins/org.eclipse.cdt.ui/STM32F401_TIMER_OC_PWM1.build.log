@@ -1,0 +1,10 @@
+15:24:29 **** Incremental Build of configuration Debug for project STM32F401_TIMER_OC_PWM1 ****
+make -j8 all 
+arm-none-eabi-size  STM32F401_TIMER_OC_PWM1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26100	    468	   2148	  28716	   702c	STM32F401_TIMER_OC_PWM1.elf
+Finished building: default.size.stdout
+ 
+
+15:24:30 Build Finished. 0 errors, 0 warnings. (took 261ms)
+

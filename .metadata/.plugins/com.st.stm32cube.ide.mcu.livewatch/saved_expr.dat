@@ -1,6 +1,3 @@
-msg
-input_captures
-timer3_cnt_freq
-htim3.Init.Prescaler
-PCLK_freq
-signal_freq
+ccr_content
+brightness
+htim4

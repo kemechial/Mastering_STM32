@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM32F401_TIMER_OC_PWM1_LED_BRIGHTNESS/STM32F401_TIMER_OC_PWM1.ioc&apos; to &apos;STM32F401_TIMER_OC_PWM1_LED_BRIGHTNESS.ioc&apos;" description="Rename resource &apos;STM32F401_TIMER_OC_PWM1.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="STM32F401_TIMER_OC_PWM1.ioc" name="STM32F401_TIMER_OC_PWM1_LED_BRIGHTNESS.ioc" stamp="1727007097307" updateReferences="true"/>
+</session>
