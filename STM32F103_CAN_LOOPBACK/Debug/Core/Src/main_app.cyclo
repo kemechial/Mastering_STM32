@@ -1,0 +1,6 @@
+../Core/Src/main_app.c:34:5:main	2
+../Core/Src/main_app.c:65:6:UART1_Init	2
+../Core/Src/main_app.c:81:6:Error_handler	1
+../Core/Src/main_app.c:92:6:SystemClockConfig	5
+../Core/Src/main_app.c:157:6:CAN1_Init	2
+../Core/Src/main_app.c:182:6:CAN1_Tx	3

@@ -1,0 +1,6 @@
+../Core/Src/main_app.c:34:5:main	112	static
+../Core/Src/main_app.c:65:6:UART1_Init	8	static
+../Core/Src/main_app.c:81:6:Error_handler	16	static
+../Core/Src/main_app.c:92:6:SystemClockConfig	80	static
+../Core/Src/main_app.c:157:6:CAN1_Init	8	static
+../Core/Src/main_app.c:182:6:CAN1_Tx	48	static
