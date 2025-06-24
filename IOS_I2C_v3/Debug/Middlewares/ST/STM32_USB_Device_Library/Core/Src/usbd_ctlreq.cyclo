@@ -1,0 +1,15 @@
+../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:417:26:SWAPBYTE	1
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:119:20:USBD_StdDevReq	12
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:188:20:USBD_StdItfReq	12
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:266:20:USBD_StdEPReq	41
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:461:13:USBD_GetDescriptor	26
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:723:13:USBD_SetAddress	6
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:770:27:USBD_SetConfig	9
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:867:13:USBD_GetConfig	5
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:909:13:USBD_GetStatus	4
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:956:13:USBD_SetFeature	3
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:988:13:USBD_ClrFeature	3
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:1024:6:USBD_ParseSetupRequest	1
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:1053:6:USBD_CtlError	1
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:1075:6:USBD_GetString	3
+../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:1111:16:USBD_GetLen	2

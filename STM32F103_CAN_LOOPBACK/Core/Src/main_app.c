@@ -201,7 +201,5 @@ void CAN1_Tx(void)
 	sprintf((char *)msg,"Message transmitted\r\n");
 			HAL_UART_Transmit(&huart3,  msg, (uint16_t)  strlen((char *)msg), HAL_MAX_DELAY);
 
-
-
 }
 
